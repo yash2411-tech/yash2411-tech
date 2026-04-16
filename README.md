@@ -1,7 +1,7 @@
 # Hi there, I'm Yash Patel
 ### Full Stack Developer | Innovative Technologist
 
-<p align="center"><img src="https://raw.githubusercontent.com/yash2411-tech/yash2411-tech/main/github_profile_banner.png" alt="Banner" width="100%"></p>p>
+<p align="center"><img src="https://raw.githubusercontent.com/yash2411-tech/yash2411-tech/main/github_profile_banner_1776369637017.png" alt="Banner" width="100%"></p>p>
 
 ---
 
