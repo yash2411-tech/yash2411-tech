@@ -14,7 +14,7 @@
       - ---
 
       ### Tech Stack & Skills
-      <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,js,html,css,mysql,bootstrap,git,github,vscode" /></a>a></p>
+      <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,js,html,css,mysql,bootstrap,git,github,vscode" /></a></p>
 
       ---
 
